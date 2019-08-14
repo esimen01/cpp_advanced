@@ -1,2 +1,2 @@
 # Ignore directory for binary files
-!bin/
+bin/
